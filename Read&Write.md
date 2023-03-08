@@ -19,4 +19,4 @@ else
 digitalWrite(LED,LOW); // turn OFF LED
 
 }
-![image](https://user-images.githubusercontent.com/127253124/223730346-fa62a289-da9b-4f2a-bcca-b2b9bbe94454.png)
+![image](https://user-images.githubusercontent.com/127253124/223732783-497cfb9c-0243-4f4d-93d8-6b9bd23e9d58.png)
